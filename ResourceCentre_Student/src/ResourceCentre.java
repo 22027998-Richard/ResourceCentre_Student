@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 // JunWei
-
+// Amos
 public class ResourceCentre {
 
 	public static void main(String[] args) {
