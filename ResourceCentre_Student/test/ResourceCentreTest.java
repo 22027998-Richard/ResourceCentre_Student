@@ -10,6 +10,7 @@ import org.junit.Test;
 // Amos
 // skye 
 // richard
+// Surendar
 
 public class ResourceCentreTest {
 	// prepare test data
