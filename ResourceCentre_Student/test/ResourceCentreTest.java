@@ -9,6 +9,7 @@ import org.junit.Test;
 // JunWei
 // Amos
 // skye 
+// richard
 
 public class ResourceCentreTest {
 	// prepare test data

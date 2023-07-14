@@ -2,6 +2,7 @@ import java.util.ArrayList;
 // JunWei
 // Amos
 // skye 
+// richard
 public class ResourceCentre {
 
 	public static void main(String[] args) {
